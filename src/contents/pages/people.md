@@ -22,12 +22,16 @@ Pratima Prasad, Associate Professor of French, University of Massachusetts, Bost
 Michaël Roy, Professor of History, Université Paris Cité    
 Chelsea Stieber, Associate Professor of French and Francophone Studies, Catholic University
 
-#### Transcription and Endcoding Team
+#### Transcription and Encoding Team
 Emilie Hautemont, Tulane University  
 Charlotte Joublot Ferré, University of Maryland  
 Apolline Lagarde, University of Maryland  
 Yasmine Najm, doctorante, Universität Leipzig  
-Noëlle Romney, Sorbonne Nouvelle University  
+Noëlle Romney, Sorbonne Nouvelle University
+
+#### Programmeurs (stagiaires du MITH)
+Joyce Gao, student, University of Maryland
+Krishnan Tholkappian, student, University of Maryland
 
 #### Cultural Events Coordinator
 Valérie-Ann Edmond-Mariette, Université des Antilles  
