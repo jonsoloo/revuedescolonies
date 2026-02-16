@@ -385,9 +385,10 @@ async function makeMap(createPage, reporter, graphql) {
     if (geoElement) {
       
       const snippet = JSON.parse(geoElement.textContent);
+      const feature = snippet.type === "FeatureCollection" ? snippet.features[0] : snippet;
       // Add xml:id to the properties of the geojson snippet
-      snippet.properties.id = xmlId;
-      geoData.push(snippet)
+      feature.properties.id = xmlId;
+      geoData.push(feature)
       // Find the places with geodata in prefixed XML 
       container.appendChild(placeElement)
     }  
