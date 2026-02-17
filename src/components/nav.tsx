@@ -80,7 +80,7 @@ const Nav = ({ location, menuLinks }: Props) => {
   </>)
 
   return (
-    <Container maxWidth="md" sx={styles.nav}>
+    <Container sx={{...styles.nav, maxWidth: curLang === "en" ? "960px !important" : "1100px !important" }}> 
       <Grid container={true} component="nav">
         {menuLinks.map(link => {
           const active = {
